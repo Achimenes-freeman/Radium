@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(34, 33, 33);
+    color: #fff;
+}
+
+h1,h2{
+    transition: color .4s linear;
+    cursor: pointer;
+}
+
+h1:hover,
+h2:hover{
+    color: rgb(48, 238, 181);
+    font-weight: 300;
+    font-family:Arial, Helvetica, sans-serif;
+}
